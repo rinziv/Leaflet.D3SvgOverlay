@@ -173,3 +173,5 @@ L.d3SvgOverlay = function (drawCallback, options) {
 };
 
 }));
+
+export L.d3SvgOverlay;
